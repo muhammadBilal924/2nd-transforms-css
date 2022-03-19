@@ -1,0 +1,8 @@
+div{
+    margin: 150px;
+    width: 200px;
+    height: 100px;
+    background-color: red;
+    border: 2px;
+    transform: scale(2,3);
+}
